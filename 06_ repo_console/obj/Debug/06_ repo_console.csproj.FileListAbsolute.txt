@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\RepoPatternRebuild\06_ repo_console\obj\Debug\06_ repo_console.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\RepoPatternRebuild\06_ repo_console\obj\Debug\06_ repo_console.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\RepoPatternRebuild\06_ repo_console\bin\Debug\_06__repo_console.exe.config
+C:\ElevenFiftyProjects\RepoPatternRebuild\06_ repo_console\bin\Debug\_06__repo_console.exe
+C:\ElevenFiftyProjects\RepoPatternRebuild\06_ repo_console\bin\Debug\_06__repo_console.pdb
+C:\ElevenFiftyProjects\RepoPatternRebuild\06_ repo_console\obj\Debug\_06__repo_console.exe
+C:\ElevenFiftyProjects\RepoPatternRebuild\06_ repo_console\obj\Debug\_06__repo_console.pdb
+C:\ElevenFiftyProjects\RepoPatternRebuild\06_ repo_console\bin\Debug\_06__repo.dll
+C:\ElevenFiftyProjects\RepoPatternRebuild\06_ repo_console\bin\Debug\_06__repo.pdb
+C:\ElevenFiftyProjects\RepoPatternRebuild\06_ repo_console\obj\Debug\06_ repo_console.csproj.CopyComplete

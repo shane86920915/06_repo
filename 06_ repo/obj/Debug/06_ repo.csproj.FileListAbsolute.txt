@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\RepoPatternRebuild\06_ repo\obj\Debug\06_ repo.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\RepoPatternRebuild\06_ repo\obj\Debug\06_ repo.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\RepoPatternRebuild\06_ repo\bin\Debug\_06__repo.dll
+C:\ElevenFiftyProjects\RepoPatternRebuild\06_ repo\bin\Debug\_06__repo.pdb
+C:\ElevenFiftyProjects\RepoPatternRebuild\06_ repo\obj\Debug\_06__repo.dll
+C:\ElevenFiftyProjects\RepoPatternRebuild\06_ repo\obj\Debug\_06__repo.pdb

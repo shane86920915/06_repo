@@ -1,0 +1,11 @@
+C:\ElevenFiftyProjects\RepoPatternRebuild\06_repo_test\bin\Debug\06_repo_test.dll
+C:\ElevenFiftyProjects\RepoPatternRebuild\06_repo_test\bin\Debug\06_repo_test.pdb
+C:\ElevenFiftyProjects\RepoPatternRebuild\06_repo_test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\RepoPatternRebuild\06_repo_test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\RepoPatternRebuild\06_repo_test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\RepoPatternRebuild\06_repo_test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\RepoPatternRebuild\06_repo_test\obj\Debug\06_repo_test.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\RepoPatternRebuild\06_repo_test\obj\Debug\06_repo_test.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\RepoPatternRebuild\06_repo_test\obj\Debug\06_repo_test.csproj.CopyComplete
+C:\ElevenFiftyProjects\RepoPatternRebuild\06_repo_test\obj\Debug\06_repo_test.dll
+C:\ElevenFiftyProjects\RepoPatternRebuild\06_repo_test\obj\Debug\06_repo_test.pdb
